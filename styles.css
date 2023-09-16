@@ -1,0 +1,11 @@
+:root {
+    --kgreen: #72B999;
+}
+h1 {
+    margin-top: 40px;
+    color: white;
+    text-align: center;
+}
+body {
+    background-color: var(--kgreen);
+}
